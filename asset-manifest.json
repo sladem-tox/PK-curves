@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/pharmacokinetics/static/css/main.ae18050b.css",
-    "main.js": "/pharmacokinetics/static/js/main.01b88307.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/pharmacokinetics/static/js/787.c4e7f8f9.chunk.js",
-    "static/media/Pharmacokinetic_Triangle.png": "/pharmacokinetics/static/media/Pharmacokinetic_Triangle.7e58b7c96c25620198eb.png",
-    "static/media/Untitled-1 copy.jpg": "/pharmacokinetics/static/media/Untitled-1 copy.6b2033a64efc431d74cf.jpg",
-    "static/media/usyd_logo.png": "/pharmacokinetics/static/media/usyd_logo.eb26fd6ca72c74f67e82.png",
-    "static/media/drmatthews.jpeg": "/pharmacokinetics/static/media/drmatthews.349c2fac8aa287b79d51.jpeg",
-    "static/media/try2.png": "/pharmacokinetics/static/media/try2.67e8a118a52eef600fb5.png",
-    "static/media/USYD_LOGO_WHITE.png": "/pharmacokinetics/static/media/USYD_LOGO_WHITE.2c9e9441b20a549a6c15.png",
-    "index.html": "/pharmacokinetics/index.html",
-    "main.ae18050b.css.map": "/pharmacokinetics/static/css/main.ae18050b.css.map",
-    "main.01b88307.js.map": "/pharmacokinetics/static/js/main.01b88307.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/pharmacokinetics/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.css": "/PK-curves/static/css/main.ae18050b.css",
+    "main.js": "/PK-curves/static/js/main.01b88307.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/PK-curves/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/Pharmacokinetic_Triangle.png": "/PK-curves/static/media/Pharmacokinetic_Triangle.7e58b7c96c25620198eb.png",
+    "static/media/Untitled-1 copy.jpg": "/PK-curves/static/media/Untitled-1 copy.6b2033a64efc431d74cf.jpg",
+    "static/media/usyd_logo.png": "/PK-curves/static/media/usyd_logo.eb26fd6ca72c74f67e82.png",
+    "static/media/drmatthews.jpeg": "/PK-curves/static/media/drmatthews.349c2fac8aa287b79d51.jpeg",
+    "static/media/try2.png": "/PK-curves/static/media/try2.67e8a118a52eef600fb5.png",
+    "static/media/USYD_LOGO_WHITE.png": "/PK-curves/static/media/USYD_LOGO_WHITE.2c9e9441b20a549a6c15.png",
+    "index.html": "/PK-curves/index.html",
+    "main.ae18050b.css.map": "/PK-curves/static/css/main.ae18050b.css.map",
+    "main.01b88307.js.map": "/PK-curves/static/js/main.01b88307.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/PK-curves/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ae18050b.css",
